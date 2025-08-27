@@ -19,6 +19,8 @@
   "homepage": "https://github.com/itz-prashant/learning-Ai-concepts#readme",
   "description": "",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^4.22.0"
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "mnist": "^1.1.0"
   }
 }
